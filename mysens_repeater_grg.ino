@@ -41,6 +41,9 @@
 
 // Flash leds on rx/tx/err
 #define MY_LEDS_BLINKING_FEATURE
+
+// 
+#define MY_WITH_LEDS_BLINKING_INVERSE
 // Set blinking period (in milliseconds)
 #define MY_DEFAULT_LED_BLINK_PERIOD 300
 
